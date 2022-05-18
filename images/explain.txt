@@ -1,0 +1,1 @@
+these images will help in creating GUI of notepad and on click perform actions..
